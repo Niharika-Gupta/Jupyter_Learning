@@ -1,3 +1,5 @@
 #  Jupyter_Learning
 
-Leaning Juppyter for Python and Data Analysis.
+Leaning Jupyter for Python and Data Analysis.
+
+Working with code cells and markdown cells
